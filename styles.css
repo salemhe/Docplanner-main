@@ -261,10 +261,12 @@ nav ul li a:hover {
     letter-spacing: -0.3px;
 }
 .fourparts p {
-    font-size: 0.8125em;
+    font-size: 13px;
     font-weight: 400;
     font-family: Roboto, Arial, sans-serif;
     color: #747474;
+    margin-top: 20px;
+    padding: 15px;
 }
 #leader {
     margin-bottom: 20px;
@@ -292,7 +294,7 @@ nav ul li a:hover {
     width: 25px;
     height: auto;
 }
-.section4fourparts div {
+.fourparts div {
     height: 500px;
     width: 250px;
 }
